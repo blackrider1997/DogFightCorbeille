@@ -1,4 +1,4 @@
-package test.Controller;
+package test.dogfight.Controller;
 
 import test.dogfight.model.IDogfightModel;
 import test.dogfight.view.IViewSystem;

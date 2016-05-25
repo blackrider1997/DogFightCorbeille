@@ -1,4 +1,4 @@
-package test.Controller;
+package test.dogfight.Controller;
 public interface IUserOrder {
 	
 	public abstract Order getOrder();

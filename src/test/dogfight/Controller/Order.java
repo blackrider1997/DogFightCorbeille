@@ -1,4 +1,4 @@
-package test.Controller;
+package test.dogfight.Controller;
 
 public enum Order {
 	UP,

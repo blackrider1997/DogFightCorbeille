@@ -1,4 +1,4 @@
-package test.Controller;
+package test.dogfight.Controller;
 
 public class UserOrder implements IUserOrder {
 	private int player;
