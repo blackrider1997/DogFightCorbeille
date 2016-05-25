@@ -1,6 +1,6 @@
 package test.Controller;
 
-public class DogfightController implements IDogfightModel,IViewSystem {
+class DogfightController implements IDogfightModel,IViewSystem {
 	
  private static int TIME_SLEEP  = 30;
  
