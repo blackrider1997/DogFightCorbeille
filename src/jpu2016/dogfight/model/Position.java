@@ -18,7 +18,7 @@ public double getY() {
 public void setY(double y) {
 	this.y = y;
 }
-protected void setMaxX(double maxX) {
+protected void setMaxX(double maxX)  {
 	this.maxX = maxX;
 }
 protected void setMaxY(double maxY) {
