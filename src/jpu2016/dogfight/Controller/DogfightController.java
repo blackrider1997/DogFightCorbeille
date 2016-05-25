@@ -1,7 +1,7 @@
-package test.dogfight.Controller;
+package jpu2016.dogfight.Controller;
 
-import test.dogfight.model.IDogfightModel;
-import test.dogfight.view.IViewSystem;
+import jpu2016.dogfight.model.IDogfightModel;
+import jpu2016.dogfight.view.IViewSystem;
 
 class DogfightController implements IDogfightModel,IViewSystem {
 	
